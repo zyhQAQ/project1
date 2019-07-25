@@ -1,0 +1,42 @@
+1 执行  alt + r
+2 提示补全 alt+/
+3 单行注释 ctrl+/
+4 多行注释 ctrl+shift+/
+5 向下复制一行  ctrl + alt + down
+6 删除一行或者多行 ctrl+d
+7 向下移动行 alt+down
+8 向上移动行 alt+up
+9 向下开始新的一行 shift+enter
+10 向上开始新的一行 ctrl+shift+enter
+11 如何查看源码  ctrl + 选中  或者  ctrl+shift+t(寻找源码)
+12 万能按键  alt + enter
+13 返回上一个编辑页面   alt + left
+14 返回下一个编辑页面  alt + right
+15 查看继承关系   F4
+16 格式化代码  ctrl+shift+f
+17 提示方法类型参数 ctrl + alt + /
+18 整体往后  tab
+19 整体往前  shift + tab
+20 查看类的结构  ctrl +  o
+21 重置方法名字  alt + shift + r
+22 大小写转换 ctrl + shift + y
+23 生成get set  tostring() 方法   alt  +shift +s
+24 查看文档声明  F2
+25 收起所有的方法  alt + shift +c
+26 展示所有的方法   alt + shift +x
+27 打开代码所在的硬盘文件夹   ctrl + shift +x
+28 生成try-catch  if else 等   alt+ shift +
+29 局部变量变成全局变量   alt + shift  +f
+30 查找和替换(当前)  ctrl + f
+31 查找和替换(全局) ctrl + h
+32 查找文件    double shift
+33 查看类的继承结构图  ctrl + shift + u  (生成图)
+34 查看方法的多层重写结构  ctrl + alt + h
+35 添加到收藏   ctrl + alt + f
+36 抽取方法   alt  + shift + m
+37 打开最近修改的文件   ctrl + E
+38 关闭当前代码栏  ctrl + w
+39 关闭所有的代码栏  ctrl shift + w
+40 快速修改类中的错误  ctrl  + shift + q
+41 查看最近粘贴的信息   ctrl + shift + v
+42 查看方法最近在哪里被调用过   ctrl + shift + h
